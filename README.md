@@ -1,6 +1,1 @@
-# first-repo
-# first-repo
-# first-repo
-# first-repo
-# first-repo
-# first-repo
+# My first github repository 
